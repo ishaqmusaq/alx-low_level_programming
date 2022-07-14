@@ -1,4 +1,4 @@
-#include "main.h"
+#include "prototype.h"
 /** 
  * main-main block
  * Description:A program that prints _putchar
